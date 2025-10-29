@@ -1,4 +1,4 @@
-# app
+# Plug_It
 
 A new Flutter project.
 
