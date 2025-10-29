@@ -1,0 +1,1 @@
+// This file is deprecated. The AttendanceRecord model has been moved to lib/screens/attendance_models.dart
